@@ -33,3 +33,14 @@
     border-radius: 50%;
     margin: 0 8px;
   }
+  .btn-1{
+    position: relative;
+    left: 420px;
+  }
+  @media only screen and (max-width:660px)
+  {
+    .nav-width{
+        position: relative;
+        left: 140px;
+    }
+  }
