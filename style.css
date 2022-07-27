@@ -1,6 +1,9 @@
 .img-slide{
     height: 35vw;
 }
+.img-filter{
+    filter:brightness(50%)
+}
 
    @media only screen and (max-width: 660px) {
        .nav-width{
