@@ -44,3 +44,6 @@
         left: 140px;
     }
   }
+  .navbar-nav{
+    text-align: right;
+  }
